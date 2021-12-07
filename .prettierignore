@@ -1,0 +1,5 @@
+.next
+.vscode
+graphql/types.tsx
+package-lock.json
+graphql.schema.json
