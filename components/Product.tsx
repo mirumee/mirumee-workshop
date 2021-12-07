@@ -4,7 +4,7 @@
 
 // Step 9: Add thumbnailUrl prop and display the image
 
-// Step x: Add TS types 🚀
+// Step 10: Add TS types 🚀
 
 export function Product() {
   return null;
