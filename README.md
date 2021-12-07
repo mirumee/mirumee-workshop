@@ -3,14 +3,14 @@
 
 Preview the example live on [StackBlitz](http://stackblitz.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/saleor/mirumee-workshop)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mirumee/mirumee-workshop)
 
 
 ## Setup
 
 1. Clone the repository
 ```bash
-git clone https://github.com/saleor/saleor-dashboard.git
+git clone https://github.com/mirumee/mirumee-workshop.git
 ```
 
 2. Install the packages
@@ -26,4 +26,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/saleor/mirumee-workshop)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/mirumee/mirumee-workshop)
